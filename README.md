@@ -56,11 +56,17 @@ BCA (Bachelor of Computer Applications).
 - CYCLIST ;
 - TYPPIST .
 
-## 🛠 Skills
+## 🛠 Tech Stack (s)
 
 <!-- HTML 5 -->
 
 <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <!-- CSS3 --> <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> <!-- JS --> <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+
+## 🛠 Front-end Frame-works
+
+<!-- bootstrap -->
+
+<img width="50" height="50" src="https://img.icons8.com/color-glass/50/bootstrap.png" alt="bootstrap"/> <!-- tailwind --> <img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
 
 ## 🛠 Used IDE (S)
 
