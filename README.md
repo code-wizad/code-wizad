@@ -1,6 +1,4 @@
-<div style="text-align: center;">
 <img src="./image/mainProfile.jpg">
-<div>
 
 # Hi, I'm PANCHAN KR ! 👋
 
