@@ -1,7 +1,10 @@
+<center>
+
 ![Profile image](./image/mainProfile.jpg)
 
 # Hi, I'm PANCHAN KR ! 👋
 
+</center>
 A web Developer, digging into new Tech Stacks, Claims new stuffs and desolve on me,
 Based in INDIA.
 Currently Attending my Education Under the
