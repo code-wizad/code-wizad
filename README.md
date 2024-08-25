@@ -1,10 +1,9 @@
-<center>
-
-![Profile image](./image/mainProfile.jpg)
+<div style="text-align: center;">
+<img src="./image/mainProfile.jpg">
+<div>
 
 # Hi, I'm PANCHAN KR ! 👋
 
-</center>
 A web Developer, digging into new Tech Stacks, Claims new stuffs and desolve on me,
 Based in INDIA.
 Currently Attending my Education Under the
