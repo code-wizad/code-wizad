@@ -12,15 +12,19 @@ Year : 2022 Batch at BPC COLLEGE,PIRAVOM,ERNAKULAM.
 
 ## Education
 
-👩‍💻 I'm currently working on My Education - MG-UNIVERSITY,KOTTAYAM,KERALA,INDIA.
+👩‍💻 I'm currently working on My Education
 
-🧠 I'm currently learning BCA (Bachelor of Computer Applications).
+- MG-UNIVERSITY,KOTTAYAM,KERALA.
+
+🧠 I'm currently learning
+
+BCA (Bachelor of Computer Applications).
 
 👯‍♀️ I'm looking to on...
 
 🤔 I'm looking for a job...
 
-💬 Ask me about my current projects...
+💬 Ask me about my current PROJECT (S)...
 
 📫 How to reach me
 
@@ -54,35 +58,21 @@ Year : 2022 Batch at BPC COLLEGE,PIRAVOM,ERNAKULAM.
 
 ## 🛠 Skills
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+<!-- HTML 5 -->
+
+<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <!-- CSS3 --> <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> <!-- JS --> <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
 
 ## 🛠 Used IDE (S)
 
-<img width="48" height="48" src="https://img.icons8.com/officel/50/php-logo.png" alt="php-logo"/><!-- git -->
-<img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/><!-- github -->
-<img width="48" height="48" src="https://img.icons8.com/glyph-neue/64/github.png" alt="github"/><!-- vs code -->
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/><!-- note pad -->
-<img width="48" height="48" src="https://img.icons8.com/3d-fluency/50/notepad.png" alt="notepad"/>
+<img width="48" height="48" src="https://img.icons8.com/officel/50/php-logo.png" alt="php-logo"/><!-- git --><img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/> <!-- github --> <img width="48" height="48" src="https://img.icons8.com/glyph-neue/64/github.png" alt="github"/><!-- vs code --> <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/><!-- note pad --> <img width="48" height="48" src="https://img.icons8.com/3d-fluency/50/notepad.png" alt="notepad"/>
 
 ## 🔗 Design
 
 <!-- figma -->
-<img width="48" height="48" src="https://img.icons8.com/color/48/figma.png" alt="figma"/>
-<!-- canva -->
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/>
+
+<img width="48" height="48" src="https://img.icons8.com/color/48/figma.png" alt="figma"/> <!-- canva --> <img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/>
 
 ## 🔗 Connect
-
-<!-- github -->
-<img width="48" height="48" src="https://img.icons8.com/sf-black/64/github.png" alt="github"/>
-<!-- x -->
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/twitter.png" alt="twitter"/>
-<!-- linked in -->
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
-<!-- instagram -->
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>
 
 <!-- github -->
 
